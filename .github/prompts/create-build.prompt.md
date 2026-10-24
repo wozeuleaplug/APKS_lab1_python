@@ -1,0 +1,1 @@
+Викликати skill `build-and-test`. Згенерувати `main.py` та `test_app.py` з тестом BasicAddition.

@@ -1,7 +1,12 @@
-target/
-*.class
+# Python Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE та ОС
 .idea/
-*.iml
 .vscode/
 .DS_Store
 *.log

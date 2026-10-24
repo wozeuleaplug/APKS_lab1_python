@@ -1,0 +1,1 @@
+Викликати skill `github-actions`. Створити скрипти `ci.sh`, `ci.bat` та workflow файл `ci.yml`.

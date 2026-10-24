@@ -1,0 +1,1 @@
+Викликати skill `project-scaffold`. Створити `requirements.txt` із залежністю `pytest`.
